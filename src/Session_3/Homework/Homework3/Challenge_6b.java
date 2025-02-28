@@ -23,5 +23,6 @@ public class Challenge_6b {
         scanner.close();
 
 
+
     }
 }
