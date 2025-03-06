@@ -1,1 +1,1 @@
-echo "public class Main { public static void main(String[] args) { System.out.println(\"Hello, Git!\"); }}" > Main.java
+echo "public class Main { public static void main(String[] args) { System.out.println(\"Hello, Git and Git Hub!\"); }}" > Main.java
